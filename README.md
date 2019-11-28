@@ -1,4 +1,4 @@
 ## The Queer Post
 
 Rainbow Memes
-! [Trans Meme] (/assets/images/transmeme.png)
+![Trans Meme] (/assets/images/transmeme.png)
